@@ -1,0 +1,2 @@
+Branches accomplish similar goals in GitHub repositories.
+Here at GitHub, our developers, writers, and designers use branc
